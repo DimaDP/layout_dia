@@ -428,7 +428,7 @@ h1 {
 .aproach__image {
   width: 687px;
   height: 680px;
-  background-image: url("/images/Photo.png");
+  background-image: url(../images/Photo.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -442,7 +442,7 @@ h1 {
 .approach__icon {
   display: inline-block;
   float: left;
-  background-image: url("/images/approach/announcement speaker.png");
+  background-image: url(../images/approach/announcement_speaker.png);
   background-repeat: no-repeat;
   background-position: center;
   width: 64px;
@@ -452,9 +452,9 @@ h1 {
   margin-top: 10px;
   margin-right: 34px; }
   .approach__icon-table {
-    background-image: url("/images/approach/Vector.png"); }
+    background-image: url(../images/approach/Vector.png); }
   .approach__icon-list {
-    background-image: url("/images/approach/Vector-1.png"); }
+    background-image: url(../images/approach/Vector-1.png); }
 
 .approach span {
   width: 240px;
@@ -1023,13 +1023,13 @@ a svg:hover #twitter {
   width: inherit; }
 
 .slide1 {
-  background-image: url(/images/slider/photo.png);
+  background-image: url(../images/slider/Photo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; }
 
 .slide2 {
-  background-image: url(/images/slider/slide-img-1.jpg);
+  background-image: url(../images/slider/slide-img-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; }
