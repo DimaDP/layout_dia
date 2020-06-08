@@ -91,7 +91,8 @@ h1 {
   letter-spacing: 3px;
   text-decoration: none;
   -webkit-transition: color 0.5s;
-  transition: color 0.5s; }
+  transition: color 0.5s;
+  color: #fff; }
 
 .nav__link:hover {
   color: #2060f6; }
