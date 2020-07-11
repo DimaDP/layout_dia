@@ -1149,7 +1149,7 @@ h1 {
     position: absolute;
     display: block;
     content: "";
-    background-image: url(/images/Expertise/“.png);
+    background-image: url("/images/Expertise/“.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 40px;
